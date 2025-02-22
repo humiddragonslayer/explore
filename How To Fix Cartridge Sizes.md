@@ -3,6 +3,11 @@ tags:
   - oped
   - stub
 ---
+	Upon metal banks
+	Crash the saturated waves
+	Rushing the white sea
+
+
 Step 1: 
 
 There's a thing where some companies have a superior design, but it's a proprietary design. And people often say it's justified to keep it proprietary, and the design is very good so what would you have them do? Give it away?
