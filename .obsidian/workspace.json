@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "087a0319e9b048e1",
+            "id": "8cc7eadaddd7df2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Let's get it started.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Let's get it started"
+              "title": "README"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -194,14 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "087a0319e9b048e1",
+  "active": "8cc7eadaddd7df2f",
   "lastOpenFiles": [
-    "Why Dubs greater than Subs.md",
-    "Weekend At Author's.md",
-    "Viossa Dictionary.md",
-    "Untitled.md",
-    "Tolkien and Gen Z, a match made in heaven.md",
+    "Movie Recs.md",
+    "Lay All Your Eternal Sunshine On My Spotless Mind.md",
+    "How much should we delay gratification.md",
+    "DVD Library film.md",
+    "Eternal Tangerine of the Glass Animals Mind.md",
+    "Eternal cold Of The mess Mind.md",
+    "Decolonisation of the mind.md",
+    "Bye film.md",
+    "A boardgame club, directed by Wes Anderson.md",
     "To Flesh Out.md",
+    "Why Dubs greater than Subs.md",
+    "Untitled.md",
     "The Three Levels of Bad Appreciation.md",
     "The Summoning.md",
     "The Objectivity of Humor.md",
@@ -209,18 +215,12 @@
     "Speed Racer - Kinds of Kindness trailer.md",
     "Soups Are A Scam, But That's Okay.md",
     "Social Media Portfolio.md",
-    "Recommendations As A Love Language.md",
     "Rain, Rain Come Again.md",
     "Poetry.md",
-    "Movie Recs.md",
-    "Love is Self Mutilation.md",
-    "Lay All Your Eternal Sunshine On My Spotless Mind.md",
-    "How To Fix Cartridge Sizes.md",
-    "How much should we delay gratification.md",
-    "Eternal Tangerine of the Glass Animals Mind.md",
-    "Eternal cold Of The mess Mind.md",
     "Eat Like A King.md",
-    "DVD Library film.md",
-    "Decolonisation of the mind.md"
+    "Recommendations As A Love Language.md",
+    "Art Is An Echo Chamber.md",
+    "How To Fix Cartridge Sizes.md",
+    "Love is Self Mutilation.md"
   ]
 }

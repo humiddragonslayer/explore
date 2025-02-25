@@ -2,6 +2,7 @@
 tags:
   - oped
   - stub
+  - noh
 ---
 Tastes, which used to be of a few types (genres, mainstream/alt) have given way to uniquely curated consumption. Your tastes are now a fingerprint. And due to similar backgrounds/exposures, those close to you would have a similar taste/consumption method. Recommendations are our way of keeping those close to us in spacetime also close to us in consumption.
 

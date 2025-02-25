@@ -2,6 +2,7 @@
 tags:
   - oped
   - stub
+  - noh
 ---
 My imprintings are all on the Americo-European side, and that's because my mind was colonised
 
